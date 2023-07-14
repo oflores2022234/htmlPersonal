@@ -21,7 +21,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/cr.jpg);
+        url(images/sanDomi.jpg);
         background-position: center bottom;
         background-repeat: no-repeat;
         background-size: cover;
@@ -95,7 +95,6 @@ body {
     margin-bottom: 25px;
 }
 
-
 .btn-1 {
     display: inline-block;
     padding: 11px 35px;
@@ -106,7 +105,7 @@ body {
 
 .btn-1:hover {
     background-color: #ebad8d;
-} 
+}
 
 .antigua {
     padding: 100px 0;
@@ -225,7 +224,7 @@ body {
 }
 
 .general-2 {
-    background-image: url(images/costumbres.jpg);
+    background-image: url(images/calleAntigua.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -233,7 +232,23 @@ body {
 }
     
 .general-3 {
-    background-image: url(images/tradiciones.jpg);
+    background-image: url(images/a1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-4 {
+    background-image: url(images/calleAntigua.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-5 {
+    background-image: url(images/a1.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
